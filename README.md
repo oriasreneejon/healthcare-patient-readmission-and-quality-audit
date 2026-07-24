@@ -1,3 +1,7 @@
+<img width="1376" height="768" alt="watermarked_img_2100305283205704660" src="https://github.com/user-attachments/assets/d9811990-c7ec-45d4-ace4-c07e4aa9da05" />
+
+
+
 # Healthcare Readmissions & Clinical Quality Audit
 
 ## Business Overview
